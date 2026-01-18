@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Alessia's Pizza & Pasta logo placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#E31E24" />
+      <stop offset="1" stop-color="#2D5F3F" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="32" fill="url(#bg)" />
+  <circle cx="200" cy="200" r="150" fill="#F5F1E8" />
+  <text x="200" y="190" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#C7326E">Alessia's</text>
+  <text x="200" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#2D5F3F">Pizza &amp; Pasta</text>
+  <text x="200" y="270" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#000">Logo placeholder</text>
+</svg>
